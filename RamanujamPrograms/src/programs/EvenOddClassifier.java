@@ -16,7 +16,7 @@ public class EvenOddClassifier {
 		}
 		else if( number%2 == 0)	{
 			System.out.println("I am in Else IF");
-			System.out.println("Numbner is even");
+			System.out.println("Number is even");
 		}
 		else {
 			System.out.println("I am in Else");
