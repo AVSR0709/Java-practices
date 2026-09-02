@@ -1,6 +1,6 @@
 package programs;
 import java.util.Scanner;
-public class StudentGardeLadder {
+public class StudentGradeLadder {
 
 	public static void main(String[] args) {
 		

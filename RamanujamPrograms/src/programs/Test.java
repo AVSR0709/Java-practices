@@ -47,8 +47,7 @@ for (int i = 1; i <= 2 ; i++) {
 		std.add(s1);
 		
 		System.out.println("Std details :" + std);
-		
-	}
+			}
 	
 
 
