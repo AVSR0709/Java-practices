@@ -19,7 +19,7 @@ public class Abundent_Number_For_Loop {
 		} else {
 			System.out.println("Not Abundent number");
 		}
-
+		sc.close();
 	}
 
 }

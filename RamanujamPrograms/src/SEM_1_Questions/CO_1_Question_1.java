@@ -1,4 +1,4 @@
-package CO_1_Questions;
+package SEM_1_Questions;
 import java.util.Scanner;
 public class CO_1_Question_1 {
 

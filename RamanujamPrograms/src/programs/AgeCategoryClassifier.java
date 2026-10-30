@@ -26,7 +26,7 @@ public class AgeCategoryClassifier {
 		else {
 			System.out.println("Inappropriate Age");
 		}
-
+		sc.close();
 	}
 
 }

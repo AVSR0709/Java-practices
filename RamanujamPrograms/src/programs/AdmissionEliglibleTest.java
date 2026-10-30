@@ -15,7 +15,7 @@ public class AdmissionEliglibleTest {
 		sports = sc.nextBoolean();
 		
 		System.out.println("Did get Admission : "+((rank<=500)||(sports)));
-
+		sc.close();
 }
 
 }

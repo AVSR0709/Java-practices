@@ -5,7 +5,7 @@ public class Abundent_Number_While_Loop {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		int i = 1,num,abundant;
+		int i = 1,num;
 		int sum=0;
 		System.out.println("Enter the number : ");
 		num= sc.nextInt();
@@ -22,6 +22,7 @@ public class Abundent_Number_While_Loop {
 			else {
 				System.out.println(num + "is not abundent number");
 			}
+			sc.close();
 		}
 	}
 

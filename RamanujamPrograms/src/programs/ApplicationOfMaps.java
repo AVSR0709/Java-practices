@@ -44,7 +44,7 @@ public class ApplicationOfMaps {
 			System.out.println();
 			System.out.println("New Key and value is added : "+ good);
 		}
-		
+		inpt.close();
 	}
 	
 }
